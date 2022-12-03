@@ -1,2 +1,2 @@
 My first directory
-Conratulations
+Congratulations
